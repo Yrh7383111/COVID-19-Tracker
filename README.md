@@ -19,6 +19,16 @@ yarn build
 ```
 
 
+## Development Stack
+```
+Front-end: React, Material UI, HTML/CSS
+
+Back-end: Node.js
+
+Features: Line Chart, Leaflet Map
+```
+
+
 ## Visualizations
 
 ### Main Page
